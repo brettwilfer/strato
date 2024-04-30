@@ -35,7 +35,7 @@ A few noteworthy teams/projects who've helped us along the way are:
 
 * **[Switchbrew](https://github.com/switchbrew/):** We've extensively used Switchbrew whether that be their **[wiki](https://switchbrew.org/)** with its colossal amount of information on the Switch that has saved us countless hours of time or **[libnx](https://github.com/switchbrew/libnx)** which was crucial to initial development of the emulator to ensure that our HLE kernel and sysmodule implementations were accurate.
 
----
+--
 
 ### Disclaimer
 * **Nintendo Switch** is a trademark of **Nintendo Co., Ltd**
